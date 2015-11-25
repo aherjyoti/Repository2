@@ -1,2 +1,2 @@
 # Repository2
-Just another repository
+Just another repository, I am Trainee.
